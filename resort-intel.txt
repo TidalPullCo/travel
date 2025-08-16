@@ -1,0 +1,7 @@
+resort-intel/
+├── index.html # Frontend scaffolding
+├── script.js # Resort rendering, filters, overlays
+├── resorts.json # Seed pack: 100+ conquest-ready resorts
+├── style.css # Optional if not using Tailwind CDN
+├── vercel.json # Vercel config (optional)
+├── README.md # Setup + deployment instructions
