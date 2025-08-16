@@ -1,0 +1,24 @@
+[
+{
+"name": "Secrets Riviera Maya",
+"tier": "Luxury",
+"adr": 450,
+"resonance": 8.5,
+"airport": "CUN",
+"weeklyFlights": 42,
+"openParcels": 2,
+"closedParcels": 1,
+"tags": ["Adults Only", "Romantic", "Beach Resort"]
+},
+{
+"name": "Jade Mountain St. Lucia",
+"tier": "Luxury",
+"adr": 720,
+"resonance": 9.2,
+"airport": "UVF",
+"weeklyFlights": 18,
+"openParcels": 1,
+"closedParcels": 2,
+"tags": ["Eco", "Wellness", "Remote Escape"]
+}
+]
